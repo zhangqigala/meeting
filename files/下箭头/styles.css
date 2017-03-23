@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:71px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u333_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:68px;
+  height:62px;
+}
+#u333 {
+  position:absolute;
+  left:6px;
+  top:-6px;
+  width:68px;
+  height:62px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
+}
+#u334 {
+  position:absolute;
+  left:2px;
+  top:23px;
+  width:64px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
